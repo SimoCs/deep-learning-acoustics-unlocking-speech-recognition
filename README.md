@@ -1,5 +1,5 @@
 # Readme
-Hierarchical data using SQL Server and Power BI examples for use in Pluralsight **Unlocking Speech Recognition: Deep Learning in Acoustics** video course. Below, you can find a list of technologies used in the demos, along with their respective versions:
+Automatic Speech Recognition (ASR) models for use in Pluralsight **Unlocking Speech Recognition: Deep Learning in Acoustics** video course. Below, you can find a list of technologies used in the demos, along with their respective versions:
 
 | Technology    | Version |
 | -------- | ------- |
